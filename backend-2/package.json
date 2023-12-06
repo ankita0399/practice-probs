@@ -1,0 +1,14 @@
+{
+  "name": "backend-2",
+  "version": "1.0.0",
+  "description": "read a file ",
+  "main": "index.js",
+  "scripts": {
+  "start": "nodemon index.js"
+  },
+  "author": "Ankita Kumari",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
