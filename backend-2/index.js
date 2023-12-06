@@ -21,4 +21,4 @@ readFileAsync(file) // Read file
     })
     .catch((e) => { // Handle error
         console.log("Error reading file: ", e); // Print error
-    })
+    });
